@@ -1,0 +1,4 @@
+What time is it?
+What time is it in City?
+Is it nighttime in City?
+Is it daytime in City?

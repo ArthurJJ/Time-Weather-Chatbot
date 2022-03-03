@@ -1,0 +1,5 @@
+What is the weather in City?
+Give me the weather in City
+Is the weather good in City?
+Is it currently sunny in City?
+Is it raining in City today?
